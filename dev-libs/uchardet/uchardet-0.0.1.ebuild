@@ -12,7 +12,7 @@ SRC_URI="https://uchardet.googlecode.com/files/${P}.tar.gz"
 
 LICENSE="MPL-1.1"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 x86"
 IUSE="static-libs"
 
 DEPEND=""
